@@ -141,3 +141,5 @@ If you choose the Terminal:
 first navigate to RUKindergarten directory/folder
 to compile:  javac -d bin src/kindergarten/*.java
 to execute: java -cp bin kindergarten.Driver
+
+Problem by Ethan Chou, Maksims Kurjanovics Kravcenko, and Kal Pandit
