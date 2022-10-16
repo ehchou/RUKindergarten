@@ -1,4 +1,6 @@
 # RUKindergarten
+THIS ASSIGNMENT IS POSTED WITH PERMISSION FROM PROFESSOR CENTENO.
+
 https://ds.cs.rutgers.edu/assignment-ru-kindergarten/
 
 Overview
